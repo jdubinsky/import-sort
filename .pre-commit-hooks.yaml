@@ -1,0 +1,9 @@
+-   id: import-sort 
+    name: JS/TS Import Sort
+    description: This hook reorders imports in js/ts files.
+    entry: import-sort
+    language: node
+    types: [js, ts]
+    # for backward compatibility
+    files: ''
+    minimum_pre_commit_version: 0.15.0
