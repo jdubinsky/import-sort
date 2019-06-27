@@ -1,4 +1,4 @@
--   id: import-sort 
+-   id: import-sort-cli
     name: JS/TS Import Sort
     description: This hook reorders imports in js/ts files.
     entry: import-sort
